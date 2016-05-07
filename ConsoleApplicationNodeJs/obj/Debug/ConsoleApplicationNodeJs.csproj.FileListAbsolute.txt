@@ -1,0 +1,6 @@
+D:\Learning\ConsoleApps\ConsoleApplicationNodeJs\ConsoleApplicationNodeJs\bin\Debug\ConsoleApplicationNodeJs.exe.config
+D:\Learning\ConsoleApps\ConsoleApplicationNodeJs\ConsoleApplicationNodeJs\bin\Debug\ConsoleApplicationNodeJs.exe
+D:\Learning\ConsoleApps\ConsoleApplicationNodeJs\ConsoleApplicationNodeJs\bin\Debug\ConsoleApplicationNodeJs.pdb
+D:\Learning\ConsoleApps\ConsoleApplicationNodeJs\ConsoleApplicationNodeJs\obj\Debug\ConsoleApplicationNodeJs.csprojResolveAssemblyReference.cache
+D:\Learning\ConsoleApps\ConsoleApplicationNodeJs\ConsoleApplicationNodeJs\obj\Debug\ConsoleApplicationNodeJs.exe
+D:\Learning\ConsoleApps\ConsoleApplicationNodeJs\ConsoleApplicationNodeJs\obj\Debug\ConsoleApplicationNodeJs.pdb
