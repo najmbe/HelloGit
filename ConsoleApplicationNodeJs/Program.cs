@@ -10,9 +10,10 @@ namespace ConsoleApplicationNodeJs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-
-            Console.ReadLine();
+            string str = "ABC";
+            char[] arr = str.ToCharArray();
+           TestGitClass.GetPer(arr);
+            Console.ReadKey();
         }
     }
 }
